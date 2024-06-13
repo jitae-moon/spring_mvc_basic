@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring_mvc_basic
+
+logging:
+  level:
+    org:
+      apache.coyote.http11: trace # Http 요청 보여주는 설정
