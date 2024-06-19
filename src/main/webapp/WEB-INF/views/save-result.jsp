@@ -6,9 +6,9 @@
     <body>
     성공
     <ul>
-<%--        <li>id=${user.id}</li>--%>
-<%--        <li>username=${user.username}</li>--%>
-<%--        <li>age=${user.age}</li>--%>
+        <li>id=${user.id}</li>
+        <li>username=${user.username}</li>
+        <li>age=${user.age}</li>
     </ul>
     <a href="/index.html">메인</a>
     </body>
